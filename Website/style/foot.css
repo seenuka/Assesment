@@ -1,0 +1,23 @@
+.foot
+{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0%;
+    color:white;
+}
+.foots
+{
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    color: azure;
+    display: flex;
+}
